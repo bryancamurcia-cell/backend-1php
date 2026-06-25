@@ -1,2 +1,2 @@
-# primera seccion introduccion orientada a objetos 
-## bryan camilo murcia barahona 
+# Primera secion introduccion orientada a objetos 
+## Bryan Camilo Murcia Barahona 
