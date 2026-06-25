@@ -8,10 +8,11 @@ class Persona
     
     public function caminando()
     {
-        echo "estoy caminando al sena";
+        echo "estoy caminando al sena<br>";
     }
 
 }
+
 
 
 ?>
