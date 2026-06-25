@@ -1,2 +1,2 @@
-# Primera secion introduccion orientada a objetos 
+# Primera sesion introduccion orientada a objetos 
 ## Bryan Camilo Murcia Barahona 
